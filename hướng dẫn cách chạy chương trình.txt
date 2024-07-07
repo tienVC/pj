@@ -1,0 +1,15 @@
+- Mở terminal của folder run: php -S localhost:8000
+- Trang chủ: http://localhost:8000/
+- Admin: http://localhost:8000/Admin
+- Trang login tự redirect vào trang theo quyền tương ứng: http://localhost:8000/?act=taikhoan
+
+MaQuyen
+1: User
+    - user1
+    - 123456
+2: Admin
+    - admin
+    - 123456
+3: Staff
+    - phuong
+    - 123456
